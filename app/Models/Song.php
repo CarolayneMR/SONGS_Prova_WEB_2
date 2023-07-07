@@ -16,7 +16,7 @@ class Song extends Model
         'title',
         'artist',
         'album',
-        'genre'
+        'genre',
     ];
 
     /**
